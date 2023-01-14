@@ -1,4 +1,4 @@
-# Project 2 - Predicting Housing Prices with Linear Regression
+# Predicting Housing Prices with Linear Regression
 
 # Introduction and Problem Statement
 
